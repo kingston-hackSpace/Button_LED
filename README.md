@@ -24,9 +24,12 @@ Diagram reference image: [here](https://github.com/kingston-hackSpace/Button_LED
 
 -----
 
-### Code
+### CODE & INSTRUCTIONS
 
-Upload [this code](https://github.com/kingston-hackSpace/Button_LED/blob/main/Button_LED.ino) to your Arduino Board
+- Upload [this code](https://github.com/kingston-hackSpace/Button_LED/blob/main/Button_LED.ino) to your Arduino Board
+
+- Does the LED turn on/off when you press/release the button?
+
 
 -----
 
